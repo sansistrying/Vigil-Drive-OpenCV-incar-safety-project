@@ -15,13 +15,13 @@ pip install opencv-python torch
 - Clone the repository or download the script.
 - Run the script in a Python environment.
 ## Functionality
-# Live Camera Detection
+### Live Camera Detection
 - Click the "Live Cam Detection" button to open a live camera feed.
 - Press 'q' to exit the live camera feed.
-# Video Input
+### Video Input
 - Click the "Video Input" button to choose a video file using a file dialog.
 - Press 'q' to exit the video playback.
-# Image Input
+### Image Input
 - Click the "Image Input" button to choose an image file using a file dialog.
 - Image input functionality is not fully implemented. You can complete the code in the image_input function.
 - Model Loading
